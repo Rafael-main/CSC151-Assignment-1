@@ -1,0 +1,5 @@
+Lulu,2018-0001,BSCS
+Wer Wer,2019-1234,BSCS
+Rafael Adrian R. Tibudan,2020-1111,Course-BSCS
+Thomas Andre,2015-6363,BSIS
+Sung Jin Woo,2016-6666,BSIT
